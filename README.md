@@ -11,7 +11,7 @@
 
 This is the source code of Laravel barcode video tutorial available on youtube. This tutorial uses Laravel, Milon barcode plugin, bootstrap 5, Jquery, html 5.
 
-- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
+- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=mSQAEbnzKCQ).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
 - [Laravel Barcode plugin credit](https://github.com/milon).
